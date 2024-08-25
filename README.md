@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left"> - 🔭 I’m working as a blockchain & backend developer<br>- 📚 I'm currently learning AI (Langchain) & Foundry <br>- ⚡ In my free time I watch anime! <br>- 👯 If you have a project to develop, I'm your man! <br>- 📫 How to reach me: parsar2025@gmail.com</p>
+<p align="left"> -🗻 APAberg team<br>- 🔭 I’m working as a blockchain & backend developer<br>- 📚 I'm currently learning AI (Langchain) & Foundry <br>- ⚡ In my free time I watch anime! <br>- 👯 If you have a project to develop, I'm your man! <br>- 📫 How to reach me: parsar2025@gmail.com</p>
 
 <p align="center"> Let's connect! 👇</p>
 
