@@ -31,15 +31,33 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left"> - 🔭 I’m working as a blockchain & backend developer<br>- 📚 I'm currently learning AI (Langchain) & Foundry <br>- ⚡ In my free time I watch anime! <br>- 👯 If you have a project to develop, I'm your man! <br>- 📫 How to reach me: parsar2025@gmail.com</p>
+<p align="left"> - 🔭 I’m working as a blockchain & backend developer<br>- 📚 I'm currently learning AI (Diffusion models) <br>- ⚡ In my free time I watch anime! <br>- 👯 If you have a project to develop, I'm your man! <br>- 📫 How to reach me: parsar2025@gmail.com</p>
 
-<p align="center"> Let's connect! 👇</p>
+<p> Let's connect! 👇</p>
 
-<div align="center">
-  <a href="https://x.com/Parsa_R_2025" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@parsar2025" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/parsarezaei03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="@parsar2025" height="30" width="40" /></a>
-<a href="https://t.me/parsar2025" target="blank"><img align="center" src="https://www.iconsdb.com/icons/preview/caribbean-blue/telegram-xxl.png" alt="@parsar2025" height="35" width="40" /></a>
-</div>
+
+<p align="center">
+  <table border="0" cellspacing="15" cellpadding="0" style="border: none; border-collapse: collapse;">
+    <tr>
+      <td align="center">
+        <a href="https://x.com/Parsa_R_2025" target="_blank">
+          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="40" width="40" alt="Twitter"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.linkedin.com/in/parsarezaei03" target="_blank">
+          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" width="40" alt="LinkedIn"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://t.me/parsar2025" target="_blank">
+          <img src="https://www.iconsdb.com/icons/preview/caribbean-blue/telegram-xxl.png" height="40" width="40" alt="Telegram"/>
+        </a>
+      </td>
+    </tr>
+  </table>
+</p>
+
 
 ###
 
@@ -70,7 +88,7 @@ Here are some ideas to get you started:
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://pbs.twimg.com/profile_images/1758141568970878976/fM5FlvD3_400x400.jpg" height="40" alt="langchain logo"  />
+  <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" height="40" alt="langchain logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
   <img width="12" />
@@ -94,8 +112,8 @@ Here are some ideas to get you started:
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=parsar2025&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=parsar2025&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false&show_icons=true&include_all_commits=true&exclude_repo=music-chain" height="150" alt="languages graph"  />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=parsar2025&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  /> -->
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=parsar2025&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false&show_icons=true&include_all_commits=true&exclude_repo=music-chain" height="150" alt="languages graph"  /> -->
  
 </div>
 
